@@ -9,15 +9,15 @@ Project: Web crawler on Zhihu.com
 **********************************
 About the webcrawler:
 
-The webcrawler for Zhihu answers is named 01_Zhihu_Answer_SpiderV2.py
+This is the webcrawler for Zhihu.com, which is the Chinese version of Quora.
 
 It has 3 files used in package named packages:
 
-1_ The utils.py is responsible for converting the timestamp, gender of the users and clean the contents(removing duplicated texts and illegal characters and etc)
+  1_ The utils.py is responsible for converting the timestamp, gender of the users and clean the contents(removing duplicated texts and illegal characters and etc)
 
-2_ The spider.py is used for scraping the data from Zhihu posts.
+  2_ The spider.py is used for scraping the data from Zhihu posts.
 
-3_ The helper.py is used for getting the additional names for csv file and the directory.
+  3_ The helper.py is used for getting the additional names for csv file and the directory.
 
 
 When using the webcrawler, you need to first find Zhihu question ID.
