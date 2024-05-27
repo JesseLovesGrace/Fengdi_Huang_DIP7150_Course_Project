@@ -38,3 +38,4 @@ The file would be stored as a CSV file to the directory you wish or the current 
 And one more thing, make sure to use "utf-8-sig" instead of any other endocding format.
 
 **********************************
+PS: If the crawler fails, it is the cookie issue, just replace the cookie in spider.py and you would be fine.
