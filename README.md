@@ -31,7 +31,7 @@ The question ID is the number at the end of the url, which is 587848376.
 
 After running the main program, you would need to input the question ID on the terminal. 
 
-And then do what it asks, follow the instruction, input the directory you want the file to be stored, and the additional name for the file (which is in the formate of "知乎回答_question_id_additional_name").
+And then do what it asks, follow the instruction, input the directory you want the file to be stored, and the additional name for the file (which is in the formate of "Zhihu_Answer_question_id_additional_name").
 
 The file would be stored as a CSV file to the directory you wish or the current directory.
 
